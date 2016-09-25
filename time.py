@@ -13,7 +13,7 @@ while(1):
 		print "-->",
 		if count==finish:
 			break
-print "HINT:press DOWN ARROW because u reached end of the path"
+print "HINT:press s to go down because u reached end of the path"
 
 finish=15
 count=0
@@ -25,7 +25,7 @@ while(1):
 		print "\t\t\t\t\t|"
 		if count==finish:
 			break
-print "Enter RIGHT ARROW",
+print "Enter d to move right",
 
 finish=10
 count=0
